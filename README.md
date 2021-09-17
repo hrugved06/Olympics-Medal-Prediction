@@ -4,8 +4,7 @@
 The goal of this project is to make a prediction model which will predict whether an athlete will win medal or not. 
 
 ## DATASET
-The dataset which is used in this project, is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results. I have uploaded the
-same in [`Dataset`](https://github.com/hrugved06/ML-DL-Projects/tree/main/Olympic%20Medal%20Prediction/Dataset) folder too, you can access that!
+The dataset which is used in this project, is collected from Kaggle. Here is the link of the dataset : [Click here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## LIBRARIES NEEDED
 
@@ -15,7 +14,7 @@ same in [`Dataset`](https://github.com/hrugved06/ML-DL-Projects/tree/main/Olympi
 - Matplotlib 
 
 ## WHAT I HAD DONE
-1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/hrugved06/ML-DL-Projects/tree/main/Olympic%20Medal%20Prediction/Requirements).
+1. Importing all the required libraries. Check `requirements.txt`
 2. Upload the dataset and the Jupyter Notebook file.
 3. Loading and Cleaning the dataset. 
 4. Encoding textual columns. 
